@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#timeline-container {
+  width: 100%;
+  margin: auto;
+}
+
+.hide {
+  display: none;
+}
